@@ -1,12 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
+import Navbar from './Components/Navbar';
+import Main from './Components/Main';
+import Footer from './Components/Footer';
 
 function App() {
   return (
-    <div className="App">
-      <h1>React App</h1>
-      <p>This is the react app testing.</p>
-      
+    <div>
+    <div>Navbar</div>
+    <div>Main</div>
+    <div>Footer</div>
     </div>
   );
 }
