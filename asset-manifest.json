@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/global-technology-concern/static/css/main.073c9b0a.css",
-    "main.js": "/global-technology-concern/static/js/main.cb6a178d.js",
+    "main.css": "/global-technology-concern/static/css/main.41c6814e.css",
+    "main.js": "/global-technology-concern/static/js/main.a7e81362.js",
     "static/js/787.f30ff408.chunk.js": "/global-technology-concern/static/js/787.f30ff408.chunk.js",
-    "static/media/logo.svg": "/global-technology-concern/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/revicons.eot": "/global-technology-concern/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/global-technology-concern/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/global-technology-concern/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/global-technology-concern/index.html",
-    "main.073c9b0a.css.map": "/global-technology-concern/static/css/main.073c9b0a.css.map",
-    "main.cb6a178d.js.map": "/global-technology-concern/static/js/main.cb6a178d.js.map",
+    "main.41c6814e.css.map": "/global-technology-concern/static/css/main.41c6814e.css.map",
+    "main.a7e81362.js.map": "/global-technology-concern/static/js/main.a7e81362.js.map",
     "787.f30ff408.chunk.js.map": "/global-technology-concern/static/js/787.f30ff408.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.cb6a178d.js"
+    "static/css/main.41c6814e.css",
+    "static/js/main.a7e81362.js"
   ]
 }
