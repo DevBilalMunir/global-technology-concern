@@ -1,0 +1,30 @@
+.carousel {
+    display: flex;
+    overflow: hidden;
+  }
+  
+  .carousel-card {
+    flex: 0 0 100%;
+    transition: transform 0.8s ease-in-out;
+  }
+  
+  .carousel-card.active {
+    transform: translateX(0%);
+  }
+  
+  .carousel-card.inactive-left {
+    transform: translateX(-100%);
+  }
+  
+  .carousel-card.inactive-right {
+    transform: translateX(100%);
+  }
+  
+  .carousel-card.next {
+    transform: translateX(200%);
+  }
+  
+  .carousel-card.previous {
+    transform: translateX(-200%);
+  }
+  
