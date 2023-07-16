@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/global-technology-concern/static/css/main.073c9b0a.css",
+    "main.js": "/global-technology-concern/static/js/main.b9c6c3c4.js",
+    "static/js/787.f30ff408.chunk.js": "/global-technology-concern/static/js/787.f30ff408.chunk.js",
+    "static/media/logo.svg": "/global-technology-concern/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/global-technology-concern/index.html",
+    "main.073c9b0a.css.map": "/global-technology-concern/static/css/main.073c9b0a.css.map",
+    "main.b9c6c3c4.js.map": "/global-technology-concern/static/js/main.b9c6c3c4.js.map",
+    "787.f30ff408.chunk.js.map": "/global-technology-concern/static/js/787.f30ff408.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b9c6c3c4.js"
+  ]
+}
