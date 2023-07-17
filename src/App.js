@@ -20,7 +20,7 @@ function App() {
     <Router>
        <Headers/>
          <Routes>
-            <Route exact path="/global-technology-concern" element={<Home />} />
+            <Route exact path="/" element={<Home />} />
             <Route exact path="/projects" element={<Projects/>} />
             <Route exact path="/clients" element={<Clients/>} />
             <Route exact path="/Contact Us" element={<Contact/>} />
