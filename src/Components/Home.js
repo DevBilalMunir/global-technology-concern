@@ -1,14 +1,15 @@
 import React from 'react'
 import Main from './Main'
-// import Carousel from './Carousel'
-// import ProjectCard from './ProjectCard'
+import Services from './Services'
+import Footer from './Footer'
+
 
 export default function Home() {
   return (
     <div>
-        {/* <Carousel /> */}
-        <h1>Home</h1>
      <Main/>
+     <Services/>
+     <Footer/>
     </div>
   )
 }

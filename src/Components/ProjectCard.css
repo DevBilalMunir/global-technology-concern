@@ -1,13 +1,43 @@
-/* .card { */
+.card { 
     /* border: 1px solid #ccc;
     border-radius: 5px; */
-    /* padding: 10px; */
-    /* margin-bottom: 20px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
+    padding: 0px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
     /* background: url("./img.avif") no-repeat center center; */
-    /* height: 600px;
-    overflow: hidden; */
-  /* } */
+    height: 600px;
+    overflow: hidden; 
+  }
+  .card-image{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    /* border-radius: 5px 5px 0 0; */
+  }
+  .container{
+    position: absolute;
+    max-width: 350px;
+    width: 100%;
+    transform: skewX(-15deg);
+    height: 150px;
+    background: #00204a;
+    top: calc(600px - 150px);
+    right: 5%;
+    width: 100%;
+    border-radius: 0px 20px 0px 20px;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 40px 40px -40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .container span{
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
 /*   
   .card-title {
     font-size: 18px;
