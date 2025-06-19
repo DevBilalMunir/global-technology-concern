@@ -6,6 +6,7 @@ import OwlCarousel from 'react-owl-carousel';
 import './Carousel.css';
 
 import ProjectCard from './ProjectCard';
+
 const Carousel = () => {
   const options = {
     items: 1,
@@ -14,7 +15,8 @@ const Carousel = () => {
     dots: true,
     autoplay: true,
   };
-  const cards = [{id:1,
+  const cards = [
+  {id:1,
     content: <ProjectCard
     title="Project Title1"
     description="Project Description"
@@ -32,7 +34,7 @@ const Carousel = () => {
     location="Project Location"
     clientName="Client Name"
   />},
-  {id:2,
+  {id:3,
     content: <ProjectCard
     title="Project Title3"
     description="Project Description"
@@ -74,4 +76,4 @@ const Carousel = () => {
   </div>
   );
 };
-export default Carousel
+export default Carousel;
